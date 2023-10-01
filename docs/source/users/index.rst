@@ -6,7 +6,7 @@ This section provides a guide on how to use openTextbook_Highlighter.
 Accessing openTextbook_Highlighter
 -----------------------------------
 
-To utilize the features of opentextbook-highlighter, you'll need to access the [link](http://3.144.25.8:3000/react-pdf-highlighter/).
+To utilize the features of opentextbook-highlighter, you'll need to access this link http://3.144.25.8:3000/react-pdf-highlighter/
 
 openTextbook_Highlighter is now ready for you to explore and enhance your PDF reading and annotation experience!
 
