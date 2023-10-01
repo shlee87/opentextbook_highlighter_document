@@ -15,5 +15,5 @@ openTextbook_Highlighter is a dynamic tool designed to enhance your interaction 
 
    About/index
    users/index
-   .. developers/index
-   
+
+
