@@ -44,14 +44,15 @@ a browser follow these steps.
 
 
 openTextbook_Highlighter Architecture
------------------
+---------------------------------------------
 
 The application is built using **React**, a JavaScript library for building user interfaces. The architecture is **component-based**, which promotes reusability and maintainability.
 
 Main Components
 ---------------
 
-*Github repository link: `installation guide <https://github.com/shlee87/pdf-highlighter>`_ 
+*Github repository link: `installation guide <https://github.com/shlee87/pdf-highlighter>` 
+
 
 
 The main components and files of the application are as follows:
