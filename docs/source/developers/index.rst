@@ -51,7 +51,7 @@ The application is built using **React**, a JavaScript library for building user
 Main Components
 ---------------
 
-*Github repository link: `installation guide <https://github.com/shlee87/pdf-highlighter>` 
+*Github repository link: `installation guide <https://github.com/shlee87/pdf-highlighter>`* 
 
 
 
