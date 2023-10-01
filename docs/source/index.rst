@@ -20,16 +20,8 @@ openTextbook_Highlighter is a dynamic tool designed to enhance your interaction 
 .. toctree::
    :maxdepth: 2
    :caption: Contents
-<<<<<<< HEAD
-
-   About/index
-   users/index
-   developers/index
-
-=======
 
    About/index
    users/index
    developers/index
    
->>>>>>> parent of 5bd61e9 (revert to the previous commit)
