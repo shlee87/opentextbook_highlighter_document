@@ -28,6 +28,6 @@ References
 ----------
 openTextbook_Highlighter is built upon the robust foundations of the `pdf.js <https://mozilla.github.io/pdf.js/>`_ and `react-pdf-highlighter.js <https://github.com/agentcooper/react-pdf-highlighter>`_ libraries, synergizing their capabilities to deliver an interactive PDF viewer and highlighter.
 
-Get Involved
-------------
-As an open-source project, openTextbook_Highlighter warmly invites everyone to fork, modify, and build upon it. If you have any questions, suggestions, or feedback, please reach out to me at `syi001@email.latech.edu <mailto:syi001@email.latech.edu>`_.
+.. Get Involved
+.. ------------
+.. As an open-source project, openTextbook_Highlighter warmly invites everyone to fork, modify, and build upon it. If you have any questions, suggestions, or feedback, please reach out to me at `syi001@email.latech.edu <mailto:syi001@email.latech.edu>`_.
