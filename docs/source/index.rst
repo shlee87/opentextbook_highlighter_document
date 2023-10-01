@@ -1,27 +1,24 @@
-<<<<<<< HEAD
-Welcome to openTextbook_Highlighter Documentation!
+Welcome to Lumache's documentation!
 ===================================
 
-openTextbook_Highlighter is a dynamic tool designed to enhance your interaction with opensource textbooks. As you delve into one of opensource textbooks, openTextbook_Highlighter allows you to leave comments and search for specific annotations within the document. Not only can you read an opensource textbook online via a link, but you also have the option to upload it directly. One of the key features of openTextbook_Highlighter is its ability to save your comments. This means that every time you return to the textbook, your insights and notes are right where you left them, making it an invaluable tool for academic study.
+**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+that creates recipes mixing random ingredients.
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+and offers a *simple* and *intuitive* API.
 
-=======
-Welcome to the openTextbook_Highlighter Documentation!
-=================================================
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
 
+.. note::
 
+   This project is under active development.
 
-
-
-
-openTextbook_Highlighter is a dynamic tool designed to enhance your interaction with opensource textbooks. As you delve into one of opensource textbooks, openTextbook_Highlighter allows you to leave comments and search for specific annotations within the document. Not only can you read an opensource textbook online via a link, but you also have the option to upload it directly. One of the key features of openTextbook_Highlighter is its ability to save your comments. This means that every time you return to the textbook, your insights and notes are right where you left them, making it an invaluable tool for academic study.
-
->>>>>>> parent of 5bd61e9 (revert to the previous commit)
+sfdasdfasd
+sdfas
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
 
-   About/index
-   users/index
-   developers/index
-   
+   usage
+   api
