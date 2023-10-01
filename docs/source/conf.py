@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumach'
+project = 'openTextbook_Highlighter'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
